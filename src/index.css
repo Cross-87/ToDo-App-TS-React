@@ -1,0 +1,7 @@
+html {
+    filter: invert(1);
+}
+
+.header img {
+    filter: invert(1);
+}
